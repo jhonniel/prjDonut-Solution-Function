@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1231
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "prjDonutProject_Ygay", "prjDonutProject_Ygay\prjDonutProject_Ygay.vbproj", "{8BFCF21E-29F6-4A60-BC1C-9D266B835DB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BFCF21E-29F6-4A60-BC1C-9D266B835DB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BFCF21E-29F6-4A60-BC1C-9D266B835DB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BFCF21E-29F6-4A60-BC1C-9D266B835DB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BFCF21E-29F6-4A60-BC1C-9D266B835DB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {591B4B50-2B41-4856-9C4A-EF87532D62BB}
+	EndGlobalSection
+EndGlobal
